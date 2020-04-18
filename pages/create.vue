@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h1>events</h1>
+    <h1>create</h1>
   </div>
 </template>
